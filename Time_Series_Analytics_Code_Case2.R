@@ -757,7 +757,7 @@ block_length <- 48
 Y <- as.data.frame(var_data)
 variables <- names(Y)
 # ----------------------------------------------------------------
-# 17.1 Estimate Local Projections
+# 13.1 Estimate Local Projections
 # ----------------------------------------------------------------
 estimate_lp <- function(Y) {
 
